@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhakti-kshatriya
-- 👀 I’m interested in IT domain(cloud)
-- 🌱 I’m currently learning SE E&TC engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IT domain
+- 🌱 I’m currently learning TE E&TC engineering
+- 💞️ I’m looking to collaborate on  IT company
 - 📫 How to reach me ...
 
 <!---

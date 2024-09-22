@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhakti-kshatriya
 - 👀 I’m interested in IT domain
-- 🌱 I’m currently learning TE E&TC engineering
+- 🌱 I’m currently completed  BE E&TC engineering
 - 💞️ I’m looking to collaborate on  IT company
 - 📫 How to reach me ...
 
